@@ -220,7 +220,7 @@ h3{
 }
 .section p{
     margin-top: 10px;
-    width: 150px;
+    width: 100%;
 }
 .flex1{ 
     display: flex;
@@ -233,7 +233,7 @@ h3{
 }
 .section1 p{
     margin-top: 10px;
-    width: 150px;
+    width: 100%;
 }
 .section1{
     border:2px solid whitesmoke;
@@ -252,7 +252,7 @@ h3{
 }
 .section2 p{
     margin-top: 10px;
-    width: 150px;
+    width: 100%;
 }
 .section2{
     border:2px solid whitesmoke;
@@ -271,7 +271,7 @@ h3{
 }
 .section3 p{
     margin-top: 10px;
-    width: 150px;
+    width: 100%;
 }
 .section3{
     border:2px solid whitesmoke;
