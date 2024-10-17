@@ -506,6 +506,7 @@ hr{
     }
     .section p{
         text-align: left;
+        width: auto;
     }
     .section1{
         width: 150px;
@@ -514,6 +515,7 @@ hr{
     }
     .section1 p{
         text-align: left;
+        width: auto;
     }
     .section2{
         width: 150px;
@@ -522,6 +524,7 @@ hr{
     }
     .section2 p{
         text-align: left;
+        width: auto;
     }
     .section3{
         width: 150px;
@@ -529,6 +532,7 @@ hr{
         text-align: center;
     }
     .section3 p{
+        width: auto;
         text-align: left;
     }
     body{
