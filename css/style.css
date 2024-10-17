@@ -500,39 +500,47 @@ hr{
         align-items: center;
     }
     .section{
-        width: 150px;
-        text-align: center;
-        padding: 20px;
+        width: 200px;
+        height: 200px;
+        padding-top: 55px;
+        padding-left: 50px;
+        align-items: center;
     }
     .section p{
         text-align: left;
-        width: auto;
+        width: 150px;
     }
     .section1{
-        width: 150px;
-        text-align: center;
-        padding: 20px;
+        width: 200px;
+        height: 200px;
+        padding-top: 55px;
+        padding-left: 50px;
+        align-items: center;
     }
     .section1 p{
         text-align: left;
-        width: auto;
+        width: 150px;
     }
     .section2{
-        width: 150px;
-        padding: 20px;
-        text-align: center;
+        width: 200px;
+        height: 200px;
+        padding-top: 55px;
+        padding-left: 50px;
+        align-items: center;
     }
     .section2 p{
         text-align: left;
-        width: auto;
+        width: 150px;
     }
     .section3{
-        width: 150px;
-        padding: 20px;
-        text-align: center;
+        width: 200px;
+        height: 200px;
+        padding-top: 55px;
+        padding-left: 50px;
+        align-items: center;
     }
     .section3 p{
-        width: auto;
+        width: 150px;
         text-align: left;
     }
     body{
