@@ -9,7 +9,7 @@
     align-items: center;
     height:55px;
     position: sticky;
-    width:100%;
+    width:110%;
 }
 .nav .title h2{
     color: white;
@@ -209,7 +209,6 @@ h3{
     height:130px;
     padding: 20px;
     box-shadow: 5px 5px 5px  black;
-    margin-left: 35px;
     margin-bottom: 15px;
     border-bottom-left-radius: 10px;
     border-top-right-radius: 10px;
@@ -226,8 +225,6 @@ h3{
 .flex1{ 
     display: flex;
     justify-content: space-between;
-    margin-right: 50px;
-    margin-left: 30px;
 }
 .section1 h6{
     color: white;
@@ -247,7 +244,6 @@ h3{
     padding: 20px;
     margin-bottom: 15px;
     box-shadow: 5px 5px 5px black;
-    margin-left: 35px;
 }
 .section2 h6{
     color: white;
@@ -266,7 +262,6 @@ h3{
     border-top-right-radius: 10px;
     box-shadow: 5px 5px 5px black;
     padding: 20px;
-    margin-left: 35px;
     margin-bottom: 15px;
 }
 .section3 h6{
@@ -286,7 +281,6 @@ h3{
     height:130px;
     padding: 20px;
     box-shadow: 5px 5px 5px black;
-    margin-left: 35px;
     margin-bottom: 15px;
 }
 .container2:hover{
@@ -466,7 +460,7 @@ hr{
 }
 @media only screen and (min-width:300px) and (max-width:780px){
     .container{
-        width: 100%;
+        width: 110%;
     }
     .pic1 img{
         width: 250px;
@@ -482,6 +476,7 @@ hr{
     }
     .png{
         margin-right: 30px;
+        margin-bottom: 70px;
      } 
     .container1{
         flex-direction: column-reverse;
@@ -504,6 +499,38 @@ hr{
         flex-direction: column;
         align-items: center;
     }
+    .section{
+        width: 150px;
+        text-align: center;
+        padding: 20px;
+    }
+    .section p{
+        text-align: left;
+    }
+    .section1{
+        width: 150px;
+        text-align: center;
+        padding: 20px;
+    }
+    .section1 p{
+        text-align: left;
+    }
+    .section2{
+        width: 150px;
+        padding: 20px;
+        text-align: center;
+    }
+    .section2 p{
+        text-align: left;
+    }
+    .section3{
+        width: 150px;
+        padding: 20px;
+        text-align: center;
+    }
+    .section3 p{
+        text-align: left;
+    }
     body{
         width:100%;
         height:100%;
@@ -511,7 +538,18 @@ hr{
     .box03 .container2 .container3 .container4 .container5{
         flex-direction: column;
         align-items: center;
-
+    }
+    .container2{
+        width: auto;
+    }
+    .container3{
+        width: auto;
+    }
+    .container4{
+        width: auto;
+    }
+    .container5{
+        width: auto;
     }
     .navbar{
         align-items: center;
